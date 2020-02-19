@@ -198,7 +198,7 @@ section {
   position: relative;
 }
 .full-banner:before {
-  content: '';
+  content: "";
   position: absolute;
   border: 1px solid #ffffff;
   top: 30px;
@@ -215,7 +215,7 @@ section {
   min-height: 400px;
 }
 .full-banner-sidebar {
-  flex: 0 0 41.666667%
+  flex: 0 0 41.666667%;
   background-color: #364147;
   text-transform: uppercase;
   padding: 30px;
